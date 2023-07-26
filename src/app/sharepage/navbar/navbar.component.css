@@ -1,0 +1,16 @@
+.active-link
+{
+   font-weight: bold;
+}
+.navbar-light  .navbar-nav  .nav-link.active-link
+{
+
+    color: orange;
+
+    text-decoration: underline;
+    
+}
+.navbar-light  .navbar-nav  .nav-link
+{
+    color: var(--secondary-color);
+}
